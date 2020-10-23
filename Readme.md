@@ -6,7 +6,7 @@ Link tester CLI can be used to test for **responses** from or **profile** any we
 ![screenshot_2](/screenshots/personal_site_full_html_response.png)
 
 ## Run the CLI
-To run the CLI app, you can use the `make all` command. This will build the CLI and execute it in the console.
+To run the CLI app, you can use the `make all` command. This will build the CLI and execute with default parameters in the console.
 
 - To build the CLI: `make build` ( After building the go app the executable can be found in `bin/main`.
 - To Run the CLI: `./bin/main` (See **Usages** Section to override defaults)
