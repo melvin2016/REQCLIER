@@ -1,5 +1,5 @@
 # Link tester CLI 🌟
-Link tester CLI can be used to test for responces from any websites.
+Link tester CLI can be used to test for **responces** from or **profile** any websites.
 
 ## Run the CLI
 To run the CLI app, you can use the `make all` command. This will build the CLI and execute it in the console.
