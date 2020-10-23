@@ -1,7 +1,7 @@
 # Link tester CLI 🌟
 Link tester CLI can be used to test for **responses** from or **profile** any websites.
 
-** Screenshot ** 
+## **Screenshot** 
 ![screenshot_1](/screenshots/cloudflare_website_profile.png)
 ![screenshot_2](/screenshots/personal_site_full_html_response.png)
 
