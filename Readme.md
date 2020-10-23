@@ -14,13 +14,11 @@ By default the Link tester CLI will make a single request to `https://linktree.m
 
 You can also modify the CLI by attaching various arguments:
 
-- To modify the URL,you can use
-    `--url <FULL_URL_PATH>`
-        eg: ./bin/main --url https://www.google.com/
+- `--url <FULL_URL_PATH>` - To modify the URL
+    - eg: ./bin/main --url https://www.google.com/
 
-- To measure the requests, you can use
-    `--profile <NUMBER_OF_REQUESTS_TO_PROFILE`
-        eg: ./bin/main --url https://www.google.com/ --profile 20
+- `--profile <NUMBER_OF_REQUESTS_TO_PROFILE` - To measure the requests
+    - eg: ./bin/main --url https://www.google.com/ --profile 20
 
 - `--help` will get the full usages of CLI app in the console 
 
