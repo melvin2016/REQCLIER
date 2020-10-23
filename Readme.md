@@ -17,7 +17,7 @@ You can also modify the CLI by attaching various arguments:
 - `--url <FULL_URL_PATH>` - To modify the URL
     - **e.g**: `./bin/main --url https://www.google.com/`
 
-- `--profile <NUMBER_OF_REQUESTS_TO_PROFILE` - To measure the requests
+- `--profile <NUMBER_OF_REQUESTS_TO_PROFILE>` - To measure the requests
     - **e.g**: `./bin/main --url https://www.google.com/ --profile 20`
 
 - `--help` will get the full usages of CLI app in the console 
