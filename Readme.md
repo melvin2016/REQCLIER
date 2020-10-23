@@ -8,7 +8,9 @@ Link tester CLI can be used to test for **responses** from or **profile** any we
 ## Run the CLI
 To run the CLI app, you can use the `make all` command. This will build the CLI and execute it in the console.
 
-- To build the CLI: `make build`
+- To build the CLI: `make build` ( After building the go app the executable can be found in `bin/main`. You can use `./bin/main` to execute the CLI app.)
+
+### Examples
 - To execute the CLI: `make basic` (Will print the full response from https://linktree.melvingeorge10.workers.dev/)
 - To profile google.com using the CLI, use the `make profile-google` command.
 
