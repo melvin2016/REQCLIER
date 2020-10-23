@@ -1,5 +1,5 @@
 # Link tester CLI 🌟
-Link tester CLI can be used to test for **responses** from any website or **profile or measure** the health of any websites.
+Link tester CLI can be used to test for **responses** from any website, **profile or measure** the health of any websites.
 
 ## **Screenshot** 📸
 ![screenshot_1](/screenshots/cloudflare_website_profile.png)
