@@ -9,7 +9,7 @@ Link tester CLI can be used to test for **responses** from or **profile** any we
 To run the CLI app, you can use the `make all` command. This will build the CLI and execute it in the console.
 
 - To build the CLI: `make build` ( After building the go app the executable can be found in `bin/main`.
-- To Run the CLI: `./bin/main` (See Usages Section to override defaults)
+- To Run the CLI: `./bin/main` (See **Usages** Section to override defaults)
 
 ## Usages 🔥
 By default the Link tester CLI will make a single request to the `https://linktree.melvingeorge10.workers.dev/links` URL and print the full HTTP response without any arguments.
