@@ -32,9 +32,9 @@ You can also modify the CLI by attaching various arguments:
 
 - `--help` will get the full usages of the CLI app in the console
 
-### If you provide the `--request`, the CLI app will only show the measurements such as mean, median, slowest, fastest time in milliseconds.
+### If you provide the `--profile`, the CLI app will only show the measurements such as mean, median, slowest, fastest time in milliseconds.
 
-### If you need only the response you can omit the `--request` completely.
+### If you need only the response you can omit the `--profile` completely.
 
 ## Prebuilt Examples ✍🏻
 
