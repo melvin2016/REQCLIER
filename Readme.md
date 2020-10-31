@@ -16,7 +16,6 @@ To run the CLI app, you can use the `make all` command. This will build the CLI 
 
 ## Usages 🔥
 
-
 By default the Link tester CLI will make a single request to the `https://linktree.melvingeorge10.workers.dev/links` URL and print the full HTTP response without any arguments.
 
 You can also modify the CLI by attaching various arguments:
@@ -39,3 +38,9 @@ You can also modify the CLI by attaching various arguments:
 
 - To execute the CLI in a basic way: `make basic` (Will print the full response from https://linktree.melvingeorge10.workers.dev/)
 - To profile google.com using the CLI, use the `make profile-google` command.
+
+## Contributing to this Project?
+
+Any kind of valid PR's are welcome 😃.
+
+See our [Contributing.md](./contributing.md)
