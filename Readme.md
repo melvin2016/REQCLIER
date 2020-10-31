@@ -2,7 +2,6 @@
 
 **REQCLIER** CLI can be used to test for **responses** from any website, **profile or measure** the health of any websites.
 
-
 ## **Screenshot** 📸
 
 ![screenshot_1](/screenshots/cloudflare_website_profile.png)
@@ -16,6 +15,7 @@ To run the CLI app, you can use the `make all` command. This will build the CLI 
 - To Run the CLI: `./bin/main` (See **Usages** Section to override defaults)
 
 ## Usages 🔥
+
 
 By default the Link tester CLI will make a single request to the `https://linktree.melvingeorge10.workers.dev/links` URL and print the full HTTP response without any arguments.
 
