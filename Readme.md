@@ -1,6 +1,6 @@
 # REQCLIER ⚡️
 
-**REQCLIER** CLI can be used to test for **responses** from any website, **profile or measure** the health of any websites.
+**REQCLIER** CLI can be used to test for **responses** from any website or measure the **Time To First Byte** of any websites.
 
 ## **Screenshot** 📸
 
