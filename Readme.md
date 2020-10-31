@@ -1,8 +1,6 @@
-# Link tester CLI 🌟
+# REQCLIER ⚡️
 
-Link tester CLI can be used to test for **responses** from any website, **profile or measure** the health of any websites.
-
-**PS: As a part of [Cloudflare Systems Assignment](https://github.com/cloudflare-hiring/cloudflare-2020-systems-engineering-assignment).**
+**REQCLIER** CLI can be used to test for **responses** from any website or measure the **Time To First Byte** of any websites.
 
 ## **Screenshot** 📸
 
@@ -18,6 +16,7 @@ To run the CLI app, you can use the `make all` command. This will build the CLI 
 
 ## Usages 🔥
 
+
 By default the Link tester CLI will make a single request to the `https://linktree.melvingeorge10.workers.dev/links` URL and print the full HTTP response without any arguments.
 
 You can also modify the CLI by attaching various arguments:
@@ -32,9 +31,9 @@ You can also modify the CLI by attaching various arguments:
 
 - `--help` will get the full usages of the CLI app in the console
 
-### If you provide the `--request`, the CLI app will only show the measurements such as mean, median, slowest, fastest time in milliseconds.
+### If you provide the `--profile`, the CLI app will only show the measurements such as mean, median, slowest, fastest time in milliseconds.
 
-### If you need only the response you can omit the `--request` completely.
+### If you need only the response you can omit the `--profile` completely.
 
 ## Prebuilt Examples ✍🏻
 
