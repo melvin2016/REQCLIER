@@ -4,6 +4,8 @@
 
 **REQCLIER** CLI can be used to test for **responses** from any website or measure the **Time To First Byte** of any websites.
 
+___Gopher created using [Gopherkon](https://quasilyte.dev/gopherkon/)___
+
 ## **Screenshots** 📸
 
 ![screenshot_1](/assets/screenshots/Screenshot_1.png)
