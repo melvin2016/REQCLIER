@@ -1,8 +1,7 @@
-# Link tester CLI 🌟
+# REQCLIER ⚡️
 
-Link tester CLI can be used to test for **responses** from any website, **profile or measure** the health of any websites.
+**REQCLIER** CLI can be used to test for **responses** from any website, **profile or measure** the health of any websites.
 
-**PS: As a part of [Cloudflare Systems Assignment](https://github.com/cloudflare-hiring/cloudflare-2020-systems-engineering-assignment).**
 
 ## **Screenshot** 📸
 
