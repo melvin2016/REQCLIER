@@ -4,7 +4,7 @@
 
 **REQCLIER** CLI can be used to test for **responses** from any website or measure the **Time To First Byte** of any websites.
 
-## **Screenshot** 📸
+## **Screenshots** 📸
 
 ![screenshot_1](/assets/screenshots/Screenshot_1.png)
 ![screenshot_2](/assets/screenshots/Screenshot_2.png)
