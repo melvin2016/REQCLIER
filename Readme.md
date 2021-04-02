@@ -6,7 +6,7 @@
 
 ___**Gopher** created using [Gopherkon](https://quasilyte.dev/gopherkon/)___
 
-## **Screenshots**  📸
+## **Screenshots** 📸
 
 ![screenshot_1](/assets/screenshots/Screenshot_1.png)
 ![screenshot_2](/assets/screenshots/Screenshot_2.png)
