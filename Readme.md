@@ -1,6 +1,6 @@
 # REQCLIER ⚡️
 
-![REQC LIER Logo](/assets/logo/REQCLIER.png)
+![REQCLIER Logo](/assets/logo/REQCLIER.png)
 
 **REQCLIER** CLI can be used to test for **responses** from any website or measure the **Time To First Byte** of any websites.
 
